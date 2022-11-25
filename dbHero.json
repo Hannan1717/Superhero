@@ -1,0 +1,116 @@
+{
+  "hero": [
+    {
+      "id": 1,
+      "gambar": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/429-man-wolf.jpg",
+      "nama": "Man-Wolf",
+      "combat": 70,
+      "durabilty": 42,
+      "intelligence": 63,
+      "power": 45,
+      "speed": 35,
+      "strength": 44
+    },
+    {
+      "id": 2,
+      "gambar": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/42-ardina.jpg",
+      "nama": "Ardina",
+      "combat": 67,
+      "durabilty": 45,
+      "intelligence": 33,
+      "power": 55,
+      "speed": 63,
+      "strength": 65
+    },
+    {
+      "id": 3,
+      "gambar": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/563-robin-iii.jpg",
+      "nama": "Robin III",
+      "combat": 87,
+      "durabilty": 65,
+      "intelligence": 56,
+      "power": 65,
+      "speed": 54,
+      "strength": 53
+    },
+    {
+      "id": 4,
+      "gambar": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/636-stephanie-powell.jpg",
+      "nama": "Stephanie Powell",
+      "combat": 56,
+      "durabilty": 36,
+      "intelligence": 76,
+      "power": 45,
+      "speed": 65,
+      "strength": 32
+    },
+    {
+      "id": 5,
+      "gambar": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/158-captain-marvel-ii.jpg",
+      "nama": "Captain Marvel II",
+      "combat": 70,
+      "durabilty": 42,
+      "intelligence": 63,
+      "power": 45,
+      "speed": 35,
+      "strength": 44
+    }
+  ],
+  "villain": [
+    {
+      "id": 1,
+      "gambar": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/602-siren.jpg",
+      "nama": "Siren",
+      "combat": 55,
+      "durabilty": 65,
+      "intelligence": 43,
+      "power": 64,
+      "speed": 43,
+      "strength": 65
+    },
+    {
+      "id": 2,
+      "gambar": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/701-vulture.jpg",
+      "nama": "Vulture",
+      "combat": 65,
+      "durabilty": 87,
+      "intelligence": 45,
+      "power": 54,
+      "speed": 32,
+      "strength": 34
+    },
+    {
+      "id": 3,
+      "gambar": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/136-brainiac.jpg",
+      "nama": "Brainiac",
+      "combat": 86,
+      "durabilty": 34,
+      "intelligence": 43,
+      "power": 46,
+      "speed": 54,
+      "strength": 65
+    },
+    {
+      "id": 4,
+      "gambar": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/297-greedo.jpg",
+      "nama": "Greedo",
+      "combat": 66,
+      "durabilty": 45,
+      "intelligence": 66,
+      "power": 54,
+      "speed": 44,
+      "strength": 50
+    },
+    {
+      "id": 5,
+      "gambar": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/591-shocker.jpg",
+      "nama": "Shocker",
+      "combat": 65,
+      "durabilty": 44,
+      "intelligence": 50,
+      "power": 65,
+      "speed": 59,
+      "strength": 47
+    }
+  ]
+}
