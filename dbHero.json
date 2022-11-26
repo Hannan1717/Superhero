@@ -2,8 +2,8 @@
   "hero": [
     {
       "id": 1,
-      "gambar": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/429-man-wolf.jpg",
-      "nama": "Man-Wolf",
+      "gambar": "https://cdn.statically.io/img/i.pinimg.com/originals/fa/a2/59/faa2596e79e39a0f29f48cfec33384e9.jpg",
+      "nama": "Ironman",
       "combat": 70,
       "durability": 42,
       "intelligence": 63,
@@ -13,8 +13,8 @@
     },
     {
       "id": 2,
-      "gambar": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/42-ardina.jpg",
-      "nama": "Ardina",
+      "gambar": "https://www.looper.com/img/gallery/heres-who-fans-want-to-take-the-throne-in-black-panther-2/intro-1599765259.jpg",
+      "nama": "Black Panther",
       "combat": 67,
       "durability": 45,
       "intelligence": 33,
@@ -24,8 +24,8 @@
     },
     {
       "id": 3,
-      "gambar": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/563-robin-iii.jpg",
-      "nama": "Robin III",
+      "gambar": "https://i.pinimg.com/564x/27/3d/a0/273da00ad397f50bcd40e6f9c74b1b96.jpg",
+      "nama": "Spiderman",
       "combat": 87,
       "durability": 65,
       "intelligence": 56,
@@ -35,8 +35,8 @@
     },
     {
       "id": 4,
-      "gambar": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/636-stephanie-powell.jpg",
-      "nama": "Stephanie Powell",
+      "gambar": "https://i.pinimg.com/564x/2a/9b/f4/2a9bf4ec161c2d1a1a82b0717faead5e.jpg",
+      "nama": "Batman",
       "combat": 56,
       "durability": 36,
       "intelligence": 76,
@@ -46,8 +46,8 @@
     },
     {
       "id": 5,
-      "gambar": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/158-captain-marvel-ii.jpg",
-      "nama": "Captain Marvel II",
+      "gambar": "https://i.pinimg.com/564x/f5/ee/77/f5ee77f41868d3d55e507b5106d1c281.jpg",
+      "nama": "Thor",
       "combat": 70,
       "durability": 42,
       "intelligence": 63,
@@ -59,8 +59,8 @@
   "villain": [
     {
       "id": 1,
-      "gambar": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/602-siren.jpg",
-      "nama": "Siren",
+      "gambar": "https://i.pinimg.com/564x/bf/dd/56/bfdd563df768182db9eb3fecdaacfc96.jpg",
+      "nama": "Scarlet Witch",
       "combat": 55,
       "durability": 65,
       "intelligence": 43,
@@ -70,8 +70,8 @@
     },
     {
       "id": 2,
-      "gambar": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/701-vulture.jpg",
-      "nama": "Vulture",
+      "gambar": "https://i.pinimg.com/564x/4e/1d/55/4e1d55a5f9cce9d4b8c5bdc89400d973.jpg",
+      "nama": "Thanos",
       "combat": 65,
       "durability": 87,
       "intelligence": 45,
@@ -81,8 +81,8 @@
     },
     {
       "id": 3,
-      "gambar": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/136-brainiac.jpg",
-      "nama": "Brainiac",
+      "gambar": "https://i.pinimg.com/564x/2b/24/22/2b2422be536bd0e2d360afb61ff51d9e.jpg",
+      "nama": "Loki",
       "combat": 86,
       "durability": 34,
       "intelligence": 43,
@@ -92,8 +92,8 @@
     },
     {
       "id": 4,
-      "gambar": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/297-greedo.jpg",
-      "nama": "Greedo",
+      "gambar": "https://joglosemarnews.com/images/2022/07/1657735721370.jpg",
+      "nama": "Sambo",
       "combat": 66,
       "durability": 45,
       "intelligence": 66,
@@ -103,8 +103,8 @@
     },
     {
       "id": 5,
-      "gambar": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/591-shocker.jpg",
-      "nama": "Shocker",
+      "gambar": "https://i.pinimg.com/236x/6f/ac/0a/6fac0aceb151d65b477d37fcefb84042.jpg",
+      "nama": "DR. Setiawan",
       "combat": 65,
       "durability": 44,
       "intelligence": 50,

@@ -25,7 +25,7 @@ function Villain({ navigation }) {
       <FlatList
         data={data}
         renderItem={({ item }) => (
-          <TouchableOpacity onPress={() => navigation.navigate('DetailVillain', { msg: item.id })}>
+          <TouchableOpacity onPress={() => navigation.navigate('Detail Villain', { msg: item.id })}>
             <View style={styles.oddItemListContainer}>
               <Image source={{ uri: item.gambar }} style={styles.ImageMovie} />
               <View style={styles.itemListContent}>

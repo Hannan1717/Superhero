@@ -17,9 +17,9 @@ export default function App() {
       <Stack.Navigator screenOptions={{ headerShown: true }}>
         <Stack.Screen name="Character" component={TabBawah} />
         <Stack.Screen name="Hero" component={Hero} />
-        <Stack.Screen name="DetailHero" component={DetailHero} />
+        <Stack.Screen name="Detail Hero" component={DetailHero} />
         <Stack.Screen name="Villain" component={Villain} />
-        <Stack.Screen name="DetailVillain" component={DetailVillain} />
+        <Stack.Screen name="Detail Villain" component={DetailVillain} />
         <Stack.Screen name="About" component={About} />
       </Stack.Navigator>
     </NavigationContainer>
