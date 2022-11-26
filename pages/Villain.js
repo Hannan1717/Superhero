@@ -47,9 +47,11 @@ const styles = StyleSheet.create({
   oddItemListContainer: {
     marginHorizontal: 20,
     height: 100,
-    backgroundColor: '#A259FF',
+    backgroundColor: '#FFFFFF',
     marginVertical: 5,
     borderRadius: 10,
+    borderWidth: 3,
+    borderColor: '#000000',
     flexDirection: 'row',
     alignItems: 'center',
     paddingHorizontal: 20,
@@ -64,7 +66,7 @@ const styles = StyleSheet.create({
     marginLeft: 10,
   },
   itemListText: {
-    color: '#FFFFFF',
+    color: '#000000',
     marginVertical: -4,
     fontWeight: 'bold',
     fontSize: 21,

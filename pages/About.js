@@ -21,7 +21,7 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   headerContainer: {
-    backgroundColor: '#8000CE',
+    backgroundColor: '#242424',
     borderBottomLeftRadius: 20,
     borderBottomRightRadius: 15,
     alignItems: 'center',
@@ -39,41 +39,17 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     fontSize: 28,
   },
-  flatlist: {
-    flex: 1,
-    marginHorizontal: 10,
-  },
-  oddItemListContainer: {
-    height: 'auto',
-    paddingBottom: 20,
-    paddingTop: 20,
-    backgroundColor: '#A259FF',
-    marginVertical: 5,
-    borderRadius: 10,
-    flexDirection: 'row',
-    alignItems: 'center',
-    paddingHorizontal: 20,
-  },
   itemListContent: {
     alignItems: 'center',
-    marginTop: 30,
-    margin: 25,
+    marginTop: 55,
+    marginHorizontal: 55,
   },
   itemListText: {
-    color: '#8000CE',
+    color: '#626262',
     marginVertical: 0,
     fontWeight: 'reguler',
     fontSize: 19,
     textAlign: 'center',
-  },
-  kotak: {
-    height: '100%',
-    paddingTop: 20,
-  },
-  numbers: {
-    fontSize: 30,
-    color: '#31C283',
-    fontWeight: 'bold',
   },
 });
 
