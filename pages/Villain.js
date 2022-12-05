@@ -12,7 +12,7 @@ function Villain({ navigation }) {
   }, []);
 
   function getData() {
-    fetch('http://localhost:3000/villain')
+    fetch('https://hero1717.herokuapp.com/villain')
       .then((response) => response.json())
       .then((json) => {
         setFilteredData(json);

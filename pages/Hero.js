@@ -13,7 +13,7 @@ function Hero({ navigation }) {
   }, []);
 
   function getData() {
-    fetch('http://localhost:3000/hero')
+    fetch('https://hero1717.herokuapp.com/hero')
       .then((response) => response.json())
       .then((json) => {
         setFilteredData(json);
@@ -67,7 +67,7 @@ const styles = StyleSheet.create({
   },
   searchbar: {
     marginHorizontal: 20,
-    height: 45,
+    height: 50,
     backgroundColor: '#FFFFFF',
     marginVertical: 5,
     borderRadius: 10,
@@ -76,6 +76,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     paddingHorizontal: 40,
     borderWidth: 1,
+    marginBottom: 10,
   },
   oddItemListContainer: {
     marginHorizontal: 20,
