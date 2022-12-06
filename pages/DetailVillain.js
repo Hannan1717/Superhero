@@ -9,7 +9,7 @@ const DetailVillain = ({ route }) => {
   }, []);
 
   function getData() {
-    fetch('http://localhost:3000/villain?id=' + route.params.msg)
+    fetch('https://hero1717.herokuapp.com/villain?id=' + route.params.msg)
       .then((response) => response.json())
       .then((json) => {
         setData(json);
